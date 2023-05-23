@@ -122,7 +122,7 @@ From the below summary table we can see there are 15 schools and a total of 39,1
 Fig. 1: Summary table
 ![pic01](Images/pic01.png)
 
-The school types in the dataset are Charter (8) and District (7).
+There are 2 types of schools in the dataset: Charter (8) and District (7).
 
 Fig. 2: School types
 
@@ -154,8 +154,9 @@ Fig. 7: Reading scores by grade
 
 <img src="Images/pic07.png" width = 300 height = 300>
 
-![pic08](Images/pic08.png)
+4 bins were created to group the spending ranges per student by school. The average grades and passing scores are higher when the school spending was less than $585
 
+Fig. 8: Spending per student summary table
 ![pic09](Images/pic09.png)
 
 ![pic10](Images/pic10.png)
