@@ -117,7 +117,7 @@ Use the per_school_summary DataFrame from the previous step to create a new Data
 This new DataFrame should show school performance based on the "School Type".
 
 # Analysis
-
+From the below summary table we can see there are 15 schools and a total of 39,170 students. The overall passing rate is 65%, the Passing Math rate is 75% and the % Passimg Reading rate is 86%.
 ![pic01](Images/pic01.png)
 
 <img src="Images/pic02.png" width = 300 height = 300>
