@@ -120,8 +120,7 @@ This new DataFrame should show school performance based on the "School Type".
 
 ![pic01](Images/pic01.png)
 
-![pic02](Images/pic02.png)
-<img src="Images/pic02.png" width = 200 height = 200>
+<img src="Images/pic02.png" width = 300 height = 300>
 
 ![pic03](Images/pic03.png)
 
