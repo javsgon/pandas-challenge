@@ -119,3 +119,25 @@ This new DataFrame should show school performance based on the "School Type".
 # Analysis
 
 ![pic01](Images/pic01.png)
+
+![pic02](Images/pic02.png)
+
+![pic03](Images/pic03.png)
+
+![pic04](Images/pic04.png)
+
+![pic05](Images/pic05.png)
+
+![pic06](Images/pic06.png)
+
+![pic07](Images/pic07.png)
+
+![pic08](Images/pic08.png)
+
+![pic09](Images/pic09.png)
+
+![pic10](Images/pic10.png)
+
+![pic11](Images/pic11.png)
+
+![pic12](Images/pic12.png)
