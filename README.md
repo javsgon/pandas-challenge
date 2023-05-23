@@ -121,6 +121,7 @@ From the below summary table we can see there are 15 schools and a total of 39,1
 ![pic01](Images/pic01.png)
 
 The school types in the dataset are Charter (8) and District (7)
+
 <img src="Images/pic02.png" width = 300 height = 300>
 
 From a further analysis we can see that the Charter schools have higher Overall Passing rate compared to the District schools. The overall passing percentage is above 89%, while all the District schools is in the range of 52% to 55%.
