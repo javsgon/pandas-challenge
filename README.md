@@ -116,3 +116,7 @@ Create a DataFrame called size_summary that breaks down school performance based
 Use the per_school_summary DataFrame from the previous step to create a new DataFrame called type_summary.
 
 This new DataFrame should show school performance based on the "School Type".
+
+# Analysis
+
+![pic01](Images/pic01.png)
