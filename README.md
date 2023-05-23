@@ -1,5 +1,4 @@
-# Pyschool
-## Pandas Challenge
+# Pyschool Pandas Challenge
 ## Introduction
 In this assignment, I will create and manipulate Pandas DataFrames to analyze school and standardized test data.
 
@@ -41,7 +40,7 @@ Include the following:
 - % passing reading (the percentage of students who passed reading)
 - % overall passing (the percentage of students who passed math AND reading)
 
-## School Summary
+### School Summary
 Perform the necessary calculations and then create a DataFrame that summarizes key metrics about each school.
 
 Include the following:
@@ -57,23 +56,23 @@ Include the following:
 - % passing reading (the percentage of students who passed reading)
 - % overall passing (the percentage of students who passed math AND reading)
 
-## Highest-Performing Schools (by % Overall Passing)
+### Highest-Performing Schools (by % Overall Passing)
 Sort the schools by % Overall Passing in descending order and display the top 5 rows.
 
 Save the results in a DataFrame called "top_schools".
 
-## Lowest-Performing Schools (by % Overall Passing)
+### Lowest-Performing Schools (by % Overall Passing)
 Sort the schools by % Overall Passing in ascending order and display the top 5 rows.
 
 Save the results in a DataFrame called "bottom_schools".
 
-## Math Scores by Grade
+### Math Scores by Grade
 Perform the necessary calculations to create a DataFrame that lists the average math score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
-## Reading Scores by Grade
+### Reading Scores by Grade
 Create a DataFrame that lists the average reading score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
-## Scores by School Spending
+### Scores by School Spending
 Create a table that breaks down school performance based on average spending ranges (per student).
 
 Use the code provided below to create four bins with reasonable cutoff values to group school spending.
@@ -101,7 +100,7 @@ Include the following metrics in the table:
 - % passing reading (the percentage of students who passed reading)
 - % overall passing (the percentage of students who passed math AND reading)
 
-## Scores by School Size
+### Scores by School Size
 Use the following code to bin the per_school_summary.
 
 size_bins = [0, 1000, 2000, 5000]
@@ -112,7 +111,65 @@ Use pd.cut on the "Total Students" column of the per_school_summary DataFrame.
 
 Create a DataFrame called size_summary that breaks down school performance based on school size (small, medium, or large).
 
-## Scores by School Type
+### Scores by School Type
 Use the per_school_summary DataFrame from the previous step to create a new DataFrame called type_summary.
 
 This new DataFrame should show school performance based on the "School Type".
+
+# Conclusions
+From the below summary table we can see there are 15 schools and a total of 39,170 students. The overall passing percentage is 65.17%, the Passing Math percentage is 74.98% and the % Passing Reading percentage is 85.81%.
+
+Fig. 1: Summary table
+![pic01](Images/pic01.png)
+
+There are 2 types of schools in the dataset: Charter (8) and District (7).
+
+Fig. 2: School types
+
+<img src="Images/pic02.png" width = 300 height = 300>
+
+From a further analysis we can see that the Charter schools have higher Overall Passing rate compared to the District schools. The overall passing percentage is above 89%, while all the District schools is in the range of 52% to 55%.
+
+Fig. 3: Summary table per school
+![pic03](Images/pic03.png)
+
+The top five performing schools are Charter schools.
+
+Fig. 4: Top 5 performing schools
+![pic04](Images/pic04.png)
+
+The bottom 5 performing schools are District schools.
+
+Fig. 5: Bottom 5 performing schools
+
+![pic05](Images/pic05.png)
+
+In general accross all grades the math and the reading average scores by grade are very uniform.
+
+Fig. 6: Math scores by grade
+
+<img src="Images/pic06.png" width = 300 height = 300>
+
+Fig. 7: Reading scores by grade
+
+<img src="Images/pic07.png" width = 300 height = 300>
+
+4 bins were created to group the spending ranges per student by school. The average grades and passing scores are higher when the school spending was less than $585
+
+Fig. 8: Spending per student summary table
+![pic09](Images/pic09.png)
+
+From the table below we can see that Large schools (2000-5000) are mostly District schools and have a lower overall passing rate than small and medium schools. Both small and medium schools have a higher Passing Math percentage and Passing Reading percentage compared to large schools.
+
+Fig 9: School summary per school size
+![pic10](Images/pic10.png)
+
+Fig 10: School performance based on school size
+
+<img src="Images/pic11.png" width = 700 height = 120>
+
+From the below table we can see that Charter schools have an overall passing right higher than District schools.
+
+Fig 11: Summary by school type
+
+<img src="Images/pic12.png" width = 700 height = 100>
