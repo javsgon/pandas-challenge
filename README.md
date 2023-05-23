@@ -129,10 +129,17 @@ Fig. 2: School types
 <img src="Images/pic02.png" width = 300 height = 300>
 
 From a further analysis we can see that the Charter schools have higher Overall Passing rate compared to the District schools. The overall passing percentage is above 89%, while all the District schools is in the range of 52% to 55%.
-Fig. 3 Summary table per school
+
+Fig. 3: Summary table per school
 ![pic03](Images/pic03.png)
 
+The top five performing schools are Charter schools.
+Fig. 4: Top 5 performing schools
 ![pic04](Images/pic04.png)
+
+The bottom 5 performing schools are District schools.
+
+Fig. 5: Bottom 5 performing schools
 
 ![pic05](Images/pic05.png)
 
