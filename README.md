@@ -134,6 +134,7 @@ Fig. 3: Summary table per school
 ![pic03](Images/pic03.png)
 
 The top five performing schools are Charter schools.
+
 Fig. 4: Top 5 performing schools
 ![pic04](Images/pic04.png)
 
