@@ -118,12 +118,14 @@ This new DataFrame should show school performance based on the "School Type".
 
 # Conclusions
 From the below summary table we can see there are 15 schools and a total of 39,170 students. The overall passing percentage is 65.17%, the Passing Math percentage is 74.98% and the % Passing Reading percentage is 85.81%.
+
 Fig. 1: Summary table
 ![pic01](Images/pic01.png)
 
 The school types in the dataset are Charter (8) and District (7).
 
 Fig. 2: School types
+
 <img src="Images/pic02.png" width = 300 height = 300>
 
 From a further analysis we can see that the Charter schools have higher Overall Passing rate compared to the District schools. The overall passing percentage is above 89%, while all the District schools is in the range of 52% to 55%.
