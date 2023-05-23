@@ -161,12 +161,15 @@ Fig. 8: Spending per student summary table
 
 From the table below we can see that Large schools (2000-5000) are mostly District schools and have a lower overall passing rate than small and medium schools. Both small and medium schools have a higher Passing Math percentage and Passing Reading percentage compared to large schools.
 
-Fig 9: School performance based on school size
+Fig 9: School summary per school size
+![pic10](Images/pic10.png)
+
+Fig 10: School performance based on school size
 
 <img src="Images/pic11.png" width = 700 height = 120>
 
-Charter schools have an overall passing right higher than District schools
+From the below table we can see that Charter schools have an overall passing right higher than District schools.
 
-Fig 10: Summary by school type
+Fig 11: Summary by school type
 
 <img src="Images/pic12.png" width = 700 height = 100>
