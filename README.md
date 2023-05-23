@@ -144,7 +144,13 @@ Fig. 5: Bottom 5 performing schools
 
 ![pic05](Images/pic05.png)
 
+In general accross all grades the math and the reading average scores by grade are very uniform.
+
+Fig. 6: Math scores by grade
+
 <img src="Images/pic06.png" width = 300 height = 300>
+
+Fig. 7: Reading scores by grade
 
 <img src="Images/pic07.png" width = 300 height = 300>
 
